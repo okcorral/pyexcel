@@ -1,5 +1,7 @@
-# pyexcel
-Jupyter Lab notebooks and Excel datetime wrangling
+## pyexcel
+Jupyter Lab notebooks and maybe some Excel datetime wrangling
+>I basically want to figure out when I'll be 50% as old as my Dad so that we can celebrate that day. I believe it will be coming up soon.
+This is a little program that I'm building to determine when that day is!
 
 Assuming you have Python 3.x, install 'virtualenv' using pip.
 > pip install virtualenv
@@ -17,7 +19,7 @@ Navigate to C:\venv\pyexcel and activate the environment
 > (pyexcel) C:\venv\pyexcel\Scripts> pip install -r [PATH]/requirements.txt
 
 Navigate to the git repository which contains notebooks:
-> (pyexcel) C:\venv\pyexcel\Scripts>cd C:\Users\joelm\Documents\GitHub\pyexcel
+> (pyexcel) C:\venv\pyexcel\Scripts>cd C:\code\pyexcel\notebooks
 
 Launch jupyter lab
-> (pyexcel) C:\Users\joelm\Documents\GitHub\pyexcel> jupyter lab
+> (pyexcel) C:\code\pyexcel\notebooks> jupyter lab
