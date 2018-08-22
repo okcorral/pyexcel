@@ -8,6 +8,6 @@ import datetime as dt
 family = pd.Series('Joel', 'Carol', 'Dad', 'Mom')
 data = []
 
-# enter birthdates for the following people  
+# enter birthdates for the following people
 
 pd.DataFrame(data=data, index=family)
