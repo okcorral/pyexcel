@@ -9,5 +9,6 @@ family = pd.Series('Joel', 'Carol', 'Dad', 'Mom')
 data = []
 
 # enter birthdates for the following people
+os.
 
 pd.DataFrame(data=data, index=family)
